@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/sperm",
-		"1": "item/bucket",
+		"1": "item/vedro",
 		"2": "item/cumtext",
 		"particle": "item/sperm"
 	},
