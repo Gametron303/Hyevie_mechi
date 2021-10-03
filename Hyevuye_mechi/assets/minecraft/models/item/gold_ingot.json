@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/zoloto",
+		"particle": "item/zoloto"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 9],
+			"to": [14, 12, 9],
+			"faces": {
+				"north": {"uv": [0, 0.064, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0.064, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0.064, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0.064, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0.064, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0.064, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.63867, 0.61523, 0.63867]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4.5, 0],
+			"scale": [0.68555, 0.6875, 1]
+		},
+		"firstperson_righthand": {
+			"translation": [0.75, 6.5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0.75, 7, 0]
+		},
+		"ground": {
+			"translation": [0, 3.25, 0]
+		},
+		"gui": {
+			"translation": [0, 3.25, 0],
+			"scale": [1.59375, 1.59375, 1.59375]
+		},
+		"fixed": {
+			"translation": [0, 3.25, -1.5],
+			"scale": [1.69336, 1.67188, 1]
+		}
+	}
+}
